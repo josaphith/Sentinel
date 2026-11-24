@@ -1,0 +1,6 @@
+customtkinter
+watchdog
+winotify
+pystray
+pillow
+pywin32
